@@ -56,7 +56,7 @@ export const projectsData = [
     img: 'darksky.png',
     title: 'Dark Sky',
     info:
-      'Dark Sky is an Android weather appliication, which allows users to search for weather summaries/ detailed information, pin cities to favorites, share on Twitter and more.',
+      'Dark Sky is an Android weather application, which allows users to search for weather summaries/ detailed information, pin cities to favorites, share on Twitter and more.',
     info2: '',
     url: '', // if no url, the button will not show up
     repo: '', // if no repo, the button will not show up
