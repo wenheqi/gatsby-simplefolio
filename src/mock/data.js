@@ -38,7 +38,7 @@ export const projectsData = [
       'Developed based on the classic tile-matching video game. Enjoy it in your phone or desktop browser. Keyboard, mouse and touch screen are all supported.',
     info2: '',
     url: 'http://tetrisx.netlify.com/', // if no url, the button will not show up
-    repo: 'https://wenheqi.github.io/tetris/', // if no repo, the button will not show up
+    repo: 'https://github.com/wenheqi/tetris', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
