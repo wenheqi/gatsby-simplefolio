@@ -32,8 +32,18 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'tetris.jpg',
+    title: 'Tetris',
+    info:
+      'Developed based on the classic tile-matching video game. Enjoy it in your phone or desktop browser. Keyboard, mouse and touch screen are all supported.',
+    info2: '',
+    url: 'http://tetrisx.netlify.com/', // if no url, the button will not show up
+    repo: 'https://wenheqi.github.io/tetris/', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'yamdb.png',
-    title: 'YamDB',
+    title: 'YamDB API',
     info:
       'YamDB (Yet Another Movie Database) is a simple yet powerful movie API which offers users plot, poster, etc. for over 1.2 million movies in JSON format.',
     info2:
